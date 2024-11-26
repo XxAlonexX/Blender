@@ -39,3 +39,6 @@ Hina serves as a compassionate and gentle counterpart to Amshani. Designed with 
 - Ensuring Hina’s softer features remained visually distinct yet true to anime styles required careful attention to texturing and shading balance.  
 - Managing physics for flowing garments posed challenges, overcome by iterative simulation tweaking and weight painting.
 ![Image Hina](./Images/Screenshot%20(337).png)
+
+## Check Out More
+If you are intrested then also checkout my https://github.com/XxAlonexX/Blender-Environments 
